@@ -24,7 +24,9 @@ npm install @reduxjs/toolkit react-redux
 
 #### Run
 
+```sh
 npm start
+```
 
 #### Setup Store
 
